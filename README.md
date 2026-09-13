@@ -26,4 +26,4 @@ For terminal:
 1. Download and unpack project from `Github`.
 2. Go to the folder with the project. (Use `cd path`, for example `cd C:\Users\Admin\Downloads\builder-pattern`).
 3. Run the following command: `java Main`. You must have `java` installed in your device.
-![Terminal Example](pictures\example_cmd.png)
+![Terminal Example](pictures/example_cmd.png)
