@@ -1,3 +1,5 @@
+package reports;
+
 public abstract class Report {
 	protected int id;
 	protected String name;

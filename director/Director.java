@@ -1,3 +1,10 @@
+package director;
+
+import reports.LogReport;
+import reports.BudgetReport;
+import builders.LogReportBuilder;
+import builders.BudgetReportBuilder;
+
 public class Director {
 	public LogReport constructLogReport(LogReportBuilder builder) {
 		builder.setId(133);

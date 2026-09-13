@@ -1,3 +1,9 @@
+import builders.LogReportBuilder;
+import builders.BudgetReportBuilder;
+import reports.LogReport;
+import reports.BudgetReport;
+import director.Director;
+
 public class Main {
 	public static void main (String[] args) {
 		Director director = new Director();

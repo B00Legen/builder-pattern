@@ -1,5 +1,7 @@
-public class LogReport extends Report {
-	public LogReport(int id, String name, String date, String title, String content) {
+package reports;
+
+public class BudgetReport extends Report {
+	public BudgetReport(int id, String name, String date, String title, String content) {
 		this.id = id;
 		this.name = name;
 		this.date = date;
@@ -9,7 +11,7 @@ public class LogReport extends Report {
 	
 	@Override
 	public String toString() {
-		return "LogReport{" +
+		return "BudgetReport{" +
 				"id=" + id +
 				", name=" + name +
 				", date=" + date +
