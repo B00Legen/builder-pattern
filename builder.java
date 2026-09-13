@@ -1,3 +1,3 @@
-public interface builder {
+public interface Builder {
 	
 }

@@ -1,3 +1,3 @@
-public class director {
+public class Director {
 	
 }
