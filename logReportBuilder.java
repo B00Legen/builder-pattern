@@ -1,4 +1,4 @@
-public class budgetReportBuilder implements builder {
+public class logReportBuilder implements builder {
 	private int id;
 	private String name;
 	private String date;
@@ -21,7 +21,7 @@ public class budgetReportBuilder implements builder {
 	public void setContent(String content) {this.content = content}
 	
 	public String toString() {
-		return "BudgetReport{" +
+		return "LogReport{" +
 				"id=" + id +
 				", name=" + name +
 				", date=" + date +
